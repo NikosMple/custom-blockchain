@@ -1,17 +1,7 @@
-**Activate the virtual enviroment**
-```
-source blockchain-env/Scripts/activate
-```
+🛠️ Custom Blockchain Project
+This project is currently under development and is expected to be completed soon. It is a functional blockchain based on various ideas sourced from the internet.
 
-**Install all packages**
-```
-pip3 install -r requirements.txt
-```
-
-**Run the tests**
-
-Make sure to activate the virtual enviroment.
-
-```
-python -m pytest backend/tests
-```
+🚀 Current Status
+Language: Python (backend logic, mining, and validation)
+Frontend: A React frontend will be added soon.
+Stay tuned for updates as we continue to build and improve this project! 🚀
